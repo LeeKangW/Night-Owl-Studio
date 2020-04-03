@@ -1,7 +1,7 @@
-Night Owl Studio의 게임 Electroad는 게임을 이용하는 유저분들의 어플 다운 및 삭제 등의 기록을 받고 있으며, 해당 기록은 유저분들의 개인정보를 얻는 절차가 아닌, 순수 다운로드 수 및 삭제 수를 파악하기 위함입니다.
+Night Owl Studio의 게임 Electroad는 사용자와 관련된 일체의 개인 정보도 사용하지 않습니다.
 
 1. 개인정보의 처리 목적 (‘https://github.com/LeeKangW/Night-Owl-Studio’이하 ‘Night Owl Studio’) 은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
-- 고객 가입의사 확인, 고객에 대한 서비스 제공에 따른 본인 식별.인증, 회원자격 유지.관리, 물품 또는 서비스 공급에 따른 금액 결제, 물품 또는 서비스의 공급.배송 등
+- 어플 다운 및 삭제 기록
 
 
 2. 개인정보의 처리 및 보유 기간
@@ -58,9 +58,6 @@ Night Owl Studio 은 정보주체의 이용정보를 저장하고 수시로 불�
 연락처 :leegw1371@gmail.com
 ※ 개인정보 보호 담당부서로 연결됩니다.
 
-▶ 개인정보 보호 담당부서
-부서명 :Night Owl Studio
-담당자 :이강우
 ② 정보주체께서는 Night Owl Studio(‘https://github.com/LeeKangW/Night-Owl-Studio’이하 ‘Night Owl Studio) 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. Night Owl Studio(‘https://github.com/LeeKangW/Night-Owl-Studio’이하 ‘Night Owl Studio) 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
 
 
